@@ -2,4 +2,8 @@ iphone
 samsung
 sony
 oneplus
+oppo
+redmi
 etc
+
+
